@@ -1,0 +1,12 @@
+.imagen {
+    /* z-index: 1;
+    position: relative;
+    margin: 0px;
+    max-width: auto; */
+    max-width: 100%;
+    height: auto;
+}
+
+.nav-item :hover {
+    background-color: #93807C;
+}
